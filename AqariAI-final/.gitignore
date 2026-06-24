@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+data/chroma_db/
+data/bm25_index.pkl
+data/bm25_docs.pkl
+data/embeddings.npy
+data/metadatas.npy
+data/docs_meta.pkl
